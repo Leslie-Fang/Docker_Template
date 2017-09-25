@@ -1,2 +1,5 @@
-这个仓库包含了一些创建docker的image（Dockerfile），docker的swarm模式(docker-compose.yml)文件的模板
-同时start.sh和srart2.sh文件可以用在uWSGI中，flask+uWSGI+Nginx来生成生产环境.
+* 这个仓库包含了一些创建docker的image（Dockerfile），docker的swarm模式(docker-compose.yml)文件的模板
+关于这部分功能参考这个[博客](!https://leslie-fang.github.io/2017/09/21/docker/)
+
+* 同时start.sh和srart2.sh文件可以用在uWSGI中，flask+uWSGI+Nginx来生成生产环境.
+关于这部分功能参考这个[博客](!https://leslie-fang.github.io/2017/09/25/Nginx/)
